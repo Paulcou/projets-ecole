@@ -5,4 +5,7 @@ Création d'une ville en fausse trois dimensions à partir d'une seed détermin�
 * C++
 * SVG
 ## Captures d'écran
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+Console
+![alt text](https://github.com/Paulcou/projets-ecole/images/StarCityConsole.PNG?raw=true)
+Rendu
+![alt text](https://github.com/Paulcou/projets-ecole/images/StarCityRender.PNG?raw=true)
