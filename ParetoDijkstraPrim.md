@@ -7,5 +7,5 @@ Il était également question d'optimisation du code étant donné qu'un des fic
 * C++
 * SVG
 ## Captures d'écran
-Frontière de Pareto établie pour la figure de gauche afin de trouver les solutions les plus efficaces pour relier tous les points de celle-ci le plus rapidement possible en fonction des deux paramètres.
+Frontière de Pareto établie pour la figure de gauche afin de trouver les solutions les moins coûteuses pour relier tous les points de celle-ci le plus rapidement possible en fonction des deux paramètres.
 ![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/ParetoRender.PNG?raw=true "Pareto")
