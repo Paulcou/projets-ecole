@@ -7,7 +7,7 @@ Il était également question d'optimisation du code étant donné qu'un des fic
 * C++
 * SVG
 ## Captures d'écran
-Réalisation de l'algorithme de Prim (figure de droite) sur la figue de gauche en fonction du coût rouge, de gauche sur les segments (mono-objectif).<br/>
+<b>Réalisation de l'algorithme de Prim (figure de droite) sur la figue de gauche en fonction du coût rouge, de gauche sur les segments (mono-objectif).</b><br/>
 ![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/Prim.png?raw=true "Prim")<br/>
 Frontière de Pareto établie pour la figure de gauche afin de trouver les solutions les moins coûteuses pour relier tous les points de celle-ci en fonction des deux coûts présents sur les segments (bi-objectif).<br/>
 ![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/ParetoRender.PNG?raw=true "Pareto")<br/>
