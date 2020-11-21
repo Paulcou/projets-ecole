@@ -1,6 +1,6 @@
 # StarCity
 ## Description
-Création d'une ville en fausse trois dimensions à partir d'une seed déterminée en console.
+Création d'une ville en fausse 3D à partir d'une seed déterminée en console.
 ## Technologies
 * C++
 * SVG
