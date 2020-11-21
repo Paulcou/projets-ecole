@@ -1,7 +1,7 @@
 # ParetoDijkstraPrim
 ## Description
 Projet piscine d'une semaine dans lequel nous devions appliquer les algorithmes de Pareto, Dijkstra et Prim sur plusieurs figures chargées depuis des fichiers.
-Chaque figue était composée de plusieurs segments à deux paramètres.
+Chaque figure était composée de plusieurs segments à deux paramètres.
 Il était également question d'optimisation du code étant donné qu'un des fichier était assez conséquent. 
 ## Technologies
 * C++
