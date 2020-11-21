@@ -1,6 +1,7 @@
 # EmploiDuTemps
 ## Description
 Affichage d'un emploi du temps avec différents types d'utilisateur ayant accès à différentes fonctions.
+Les données sont récupérées depuis une base de données MySQL.
 ## Technologies
 * Java
 * MySQL
