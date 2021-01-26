@@ -15,4 +15,4 @@ Le canon cible une araignée à la fois jusqu'à ce que celle-ci sorte de son ch
 * <b>La deuxième vague qui se lance.</b><br/>
 ![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/TowerDefStep4.PNG?raw=true "Statistiques")<br/>
 * <b>La deuxième vague qui progresse sur le terrain tout en perdant de la vie et des membres.</b><br/>
-![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/TowerDefStep3.PNG?raw=true "Statistiques")<br/>
+![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/TowerDefStep3.png?raw=true "Statistiques")<br/>
