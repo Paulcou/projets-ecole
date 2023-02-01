@@ -12,13 +12,13 @@ Il était également question d'optimisation du code étant donné qu'un des fic
 ## Captures d'écran / Screenshots
 [EN]Application of Prim's algorithm (right figure) on the left figure according cost (red) -> single-lens.<br/>
 [FR]Application de l'algorithme de Prim (figure de droite) sur la figure de gauche en fonction du coût (en rouge) -> mono-objectif.<br/><br/>
-![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/Prim.png?raw=true "Prim")<br/><br/>
+![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/Prim.png?raw=true "Prim")<br/><br/><br/>
 [EN]Pareto frontier established for the figure on the left in order to find the cheapest solutions to connect all the points of the figure according to the two costs present on the segments -> bi-objective.<br/>
 [FR]Frontière de Pareto établie pour la figure de gauche afin de trouver les solutions les moins coûteuses pour relier tous les points de celle-ci en fonction des deux coûts présents sur les segments -> bi-objectif.<br/><br/>
-![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/ParetoRender.PNG?raw=true "Pareto")<br/><br/>
+![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/ParetoRender.PNG?raw=true "Pareto")<br/><br/><br/>
 [EN]Division of the left figure into all possible solutions to every points and display the Pareto border according to the weight 1 (left value on the segments) and the sum of all the Dijkstra algorithms realized on the solution -> bi-objective.<br/>
 [FR]Découpage de la figure de gauche en toutes les solutions possibles pour relier tous les points et affichage de la frontière de Pareto en fonction du poids 1 (valeur de gauche sur les segments) et de la somme de tous les Dijkstra réalisés sur la solution -> bi-objectif.<br/><br/>
-![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/Dijkstra.png?raw=true "Dijkstra")<br/><br/>
+![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/Dijkstra.png?raw=true "Dijkstra")<br/><br/><br/>
 [EN]One of the extensions was to perform the same mission as for the second image but with 3 costs -> tri-lens.<br/>
 [FR]Une des extensions fût de réaliser la même mission que pour la deuxième image mais avec 3 coûts -> tri-objectif.<br/><br/>
 ![alt text](https://github.com/Paulcou/projets-ecole/blob/main/images/ParetoRender2.png?raw=true "Pareto 2")<br/>
